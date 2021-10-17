@@ -1,0 +1,11 @@
+{
+    "author" : [""],
+    "install_msg" : "Thanks for installing sus",
+    "name" : "Sussify",
+    "short" : "Sus",
+    "requirements" : ["pillow"],
+    "description" : "Sus",
+    "tags" : ["idk why this exists"],
+    "min_python_version": [3, 6, 0],
+    "end_user_data_statement": "This cog does not store user data."
+}
